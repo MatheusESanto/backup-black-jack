@@ -1,0 +1,13 @@
+{
+  "name": "blackjack",
+  "version": "1.0.0",
+  "description": "Jogo de cartas BlackJack, o jogador que tiver a pontuação mais próxima de 21 pontos, ganha.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node --watch ./index.js"
+  },
+  "author": "matheus santo",
+  "license": "ISC",
+  "type": "module"
+}
